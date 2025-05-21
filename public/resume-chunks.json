@@ -1,0 +1,55 @@
+[
+  "Name: Bhanu Nama",
+  "Phone: +91-7993073400",
+  "Email: bhanunama08@gmail.com",
+  "LinkedIn: https://www.linkedin.com/in/bhanu-nama-654957281/",
+  "GitHub: https://github.com/BhanuNama",
+  "Portfolio Project (Campus Connect): https://campus-connect-rouge.vercel.app/",
+  "Portfolio Project (Nutri Guide): https://neutri-guide.vercel.app/",
+  
+  "Objective: I am an aspiring software developer currently pursuing a Bachelor's in Computer Science and Engineering. I have hands-on experience in web development and machine learning. I'm passionate about building scalable, innovative, and user-centric software solutions.",
+  
+  "Education: Bachelor of Technology in Computer Science and Engineering at Keshav Memorial Institute of Technology, Hyderabad (2021–2025) with CGPA 8.3",
+  "Education: Completed Intermediate (MPC) at Sri Gayatri College, Hyderabad with 97% (2019–2021)",
+  "Education: Completed SSC at Prerana High School, Nalgonda with GPA 10.0 (2019)",
+  
+  "Project: Campus Connect\nStack: MERN (MongoDB, Express.js, React.js, Node.js)\nSummary: A web platform designed to improve campus communication and academic management.",
+  "Campus Connect Features: Real-time attendance tracking, exam results, secure JWT-based login, role-based access (students/teachers), MongoDB integration for scalability.",
+  
+  "Project: Nutri Guide\nStack: MERN, Gemini API, Chart.js, Tailwind CSS\nSummary: AI-powered meal recommendation system that provides personalized diet plans based on user input.",
+  "Nutri Guide Features: Meal macros breakdown (calories, carbs, protein, fats), JWT authentication, persistent plans, visual charts using Chart.js.",
+  "Nutri Guide Modules: Mindful Eating Score (meal scoring via NLP), Food Doctor (deficiency detection), Cooking Companion (AI-generated recipes with timers and macro visualization)",
+  
+  "Project: Age and Gender Prediction\nTools: Python, Convolutional Neural Networks (CNN)\nDescription: Trained CNN model to predict age and gender from facial images with 92% accuracy.",
+  
+  "Programming Languages: Java, Python, JavaScript, C++ (certified)",
+  "Frontend Technologies: HTML5, CSS3, React.js, Tailwind CSS",
+  "Backend Technologies: Node.js, Express.js",
+  "Database Technologies: MongoDB, SQL",
+  "Cloud & Hosting: AWS, Vercel",
+  "Other Tools & Platforms: Git, GitHub, Postman, VS Code, Chart.js",
+  "Version Control: Git and GitHub for code collaboration and versioning",
+  
+  "Machine Learning Knowledge: Image classification using CNN, Natural Language Processing for meal planning and scoring, TensorFlow basics",
+  
+  "Core CS Knowledge: Data Structures & Algorithms, Operating Systems, DBMS, OOP",
+  
+  "Soft Skills: Communication, Time Management, Problem Solving, Adaptability, Teamwork",
+  
+  "Certification: Microsoft & LinkedIn - Essentials in Software Development",
+  "Certification: Udemy - Java and C++ (https://udemy-certificate.s3.amazonaws.com/pdf/UC-a5ec170c-56d5-4a94-acc1-a484e9f4585f.pdf)",
+  
+  "Career Goal: To become a full-stack software engineer and ML developer, contributing to impactful, real-world applications in health, education, or automation.",
+  
+  "Tech Stack Expertise: MERN stack (MongoDB, Express.js, React.js, Node.js), integrated with modern tools like Tailwind CSS, Chart.js, and AI APIs.",
+  
+  "Special Interest: Building AI-integrated web apps with real-time features and personalized user experiences.",
+  
+  "Achievements: Built and deployed two major full-stack projects with real-world functionality—Campus Connect and Nutri Guide—while still in college.",
+  
+  "Strengths: Fast learner, highly organized, self-driven, creative problem-solver, experienced with collaborative and individual project development.",
+  
+  "Availability: Open to internships and full-time software development roles anytime",
+  
+  "Languages Known: English, Hindi, Telugu"
+]
